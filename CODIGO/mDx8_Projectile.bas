@@ -1,5 +1,7 @@
 Attribute VB_Name = "mDx8_Projectile"
-Public LastProjectile As Integer    'Last projectile index used
+Public LastProjectile As Integer    'Last projectile index used '
+
+'Testeo JUAN MZ XD
 
 'Projectile information
 Public Type Projectile
